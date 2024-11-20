@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Ahuir 
+- prénom : Noëlie
+- URL Netlify : https://jocular-dodol-5a8425.netlify.app
 
 # Travail
 
